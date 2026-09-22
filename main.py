@@ -1,4 +1,4 @@
-print("Program staring.")
+print("Program starting.")
 print("")
 word = input("Enter a closed compound word: ")
 print(f"The word you inserted is '{word}' and in reverse it is '{word[::-1]}'.")
